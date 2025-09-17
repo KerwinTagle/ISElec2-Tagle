@@ -2,6 +2,7 @@
 # 👋 Hola!, I am Kerwin Listangco Tagle.
 
 **A level 2 of Bachelor of Science Information Systems Student of Bicol University Polangui**
+---
 Student Leader | Passionate Learner | Aspiring Software Developer
 
 ---

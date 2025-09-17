@@ -1,5 +1,5 @@
 [Know About Me!.md](https://github.com/user-attachments/files/22376492/Know.About.Me.md)
-# 👋 Hola!, I am Kerwin Listangco Tagle.
+# 👋 Hola! I am Kerwin Listangco Tagle.
 
 **A level 2 of Bachelor of Science Information Systems Student of Bicol University Polangui**
 ---
